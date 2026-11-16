@@ -29,6 +29,9 @@ Your first 50 tosses are free. A toss deletes one photo or video, which goes to 
 **Does deleting in Pickture free up iCloud space?**
 Yes, if iCloud Photos is on. A photo deleted on your iPhone is deleted in iCloud too, once it leaves Recently Deleted. Free up in Pickture shows how much space you have freed.
 
+**I back up with Google Photos or Amazon Photos. Does tossing delete my backup?**
+No. Those apps keep their own copy, so a photo you toss in Pickture stays in Google Photos or Amazon Photos. To free space there too, delete it in that app.
+
 **What does Shrink do to a video?**
 It saves a 1080p copy of the video with the same date, place, favorite and albums, then asks iOS to delete the original. If anything goes wrong, or you cancel the prompt, both copies stay. Slow-motion, Cinematic, spatial and edited videos cannot be shrunk, because the copy would lose those effects.
 
