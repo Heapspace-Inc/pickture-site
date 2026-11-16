@@ -23,8 +23,20 @@ Pickture never suggests deleting favorites, hidden photos, photos in your own al
 **Where are the albums Pickture creates?**
 In Photos, inside a folder named "Pickture".
 
+**How many photos can I delete for free?**
+Your first 50 deleted photos are free. After that, a one-time purchase unlocks Pickture for good. There is no subscription.
+
+**Does deleting in Pickture free up iCloud space?**
+Yes, if iCloud Photos is on. A photo deleted on your iPhone is deleted in iCloud too, once it leaves Recently Deleted. Settings in Pickture shows how much space you have freed.
+
+**What does Shrink do to a video?**
+It saves a 1080p copy of the video with the same date, place, favorite and albums, then asks iOS to delete the original. If anything goes wrong, or you cancel the prompt, both copies stay. Slow-motion, Cinematic, spatial and edited videos cannot be shrunk, because the copy would lose those effects.
+
+**What happens when I turn a Live Photo into a still?**
+Pickture saves the photo without its few seconds of video, checks the new photo, then asks iOS to delete the Live Photo. Edited Live Photos and ones with Loop, Bounce or Long Exposure are left alone.
+
 **How do I restore my purchase on a new iPhone?**
-Toss a photo in Pickture to open the unlock screen, then tap Restore purchase. Family Sharing members get the unlock too.
+Open Settings in Pickture and tap Restore purchase. Family Sharing members get the unlock too.
 
 **Does Pickture upload my photos?**
 No. See the [privacy policy](privacy.html).

@@ -19,6 +19,7 @@ Pickture does not collect, store or share any of your data. Everything it does w
 - Your choices: which photos you kept or tossed, and which suggestions you skipped.
 - What Pickture learned from your choices, and album title examples.
 - People you named, with the face data used to recognize them and the name, phone number or email you picked from Contacts for each.
+- How much space you have freed, and how many free deletes you have used. The free-delete count is also kept in your iPhone's keychain, so it survives reinstalling Pickture. Pickture never sends either one anywhere.
 
 This data lives in Pickture's own storage on your iPhone and is included in your normal iPhone backup. Deleting Pickture deletes it.
 
