@@ -50,4 +50,4 @@ If this policy changes, the new version will appear on this page with a new effe
 
 ## Contact
 
-Questions: email [vigneshse@gmail.com](mailto:vigneshse@gmail.com).
+Questions: email [heapspace.app@gmail.com](mailto:heapspace.app@gmail.com).

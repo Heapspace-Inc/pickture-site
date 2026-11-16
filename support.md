@@ -4,7 +4,7 @@ title: Support
 
 # Pickture support
 
-To report a problem or ask a question, email [vigneshse@gmail.com](mailto:vigneshse@gmail.com). Include your iPhone model and iOS version.
+To report a problem or ask a question, email [heapspace.app@gmail.com](mailto:heapspace.app@gmail.com). Include your iPhone model and iOS version.
 
 ## Common questions
 
