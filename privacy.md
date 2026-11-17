@@ -43,7 +43,7 @@ Pickture has no server and sends nothing to its developer. These Apple services 
 
 ## No tracking
 
-Pickture has no ads, no analytics, no tracking and no account. It does not use advertising identifiers.
+Pickture has no ads, no tracking and no account, and it does not use advertising identifiers. Pickture itself collects no analytics. On Android, Google's ML Kit sends Google the diagnostic data described in the Android section above.
 
 ## Deleting photos
 

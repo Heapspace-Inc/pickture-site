@@ -4,9 +4,9 @@ title: Pickture
 
 # Pickture
 
-Pickture keeps the best shot of every burst and clears the rest, on your iPhone.
+Pickture keeps the best shot of every moment and clears the rest, on your iPhone.
 
-- It finds near-duplicate photos and marks the best one as a keeper: sharp, eyes open, facing the camera.
+- It finds similar shots of the same moment and marks the best one as a keeper: sharp, eyes open, facing the camera.
 - You flick the rest away. Nothing is deleted until you confirm.
 - Each day ends as an album, named on your iPhone from what is in the photos, the place and the season.
 - Your photos never leave your iPhone.
